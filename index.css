@@ -100,6 +100,7 @@ body {
     z-index:4;
     transition:0.4s ease-in-out;
     border-radius:0px 0px 100px 100px;
+    background:rgba(255,50,50,0.3);
 }
 #work {
     width:10vw;
@@ -118,6 +119,7 @@ body {
     z-index:4;
     transition:0.4s ease-in-out;
     border-radius:0px 0px 100px 100px;
+    background:rgba(255,50,50,0.3);
 }
 #contact {
     width:10vw;
@@ -135,6 +137,7 @@ body {
     z-index:4;
     transition:0.4s ease-in-out;
     border-radius:100px 100px 0px 0px;
+    background:rgba(255,50,50,0.3);
 }
 #about:hover {
     background:rgba(255,50,50,0.9);
